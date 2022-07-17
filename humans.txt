@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    Acknowledgment to all my coligues
 
 # TECHNOLOGY COLOPHON
 
